@@ -12,7 +12,7 @@ cd c:/kafka
 bin\windows\kafka-server-start.bat config/server.properties
 ```
 
-** Start the consumer**
+**Start the consumer**
 ```
 python bin/processStream.py my-stream
 ```
