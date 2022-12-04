@@ -1,5 +1,6 @@
 # mock-real-time-data-stream-with-python-and-kafka
 Make a mock “real-time” data stream with Python and Kafka
+https://towardsdatascience.com/make-a-mock-real-time-stream-of-data-with-python-and-kafka-7e5e23123582
 
 **Start kafka**
 ```
